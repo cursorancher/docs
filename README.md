@@ -36,3 +36,8 @@ services:
       - 80:80
       - 443:443
 ```
+
+## Add
+
+se nao lembrar usa o comando docker exec -it <idContainerRancher) reset-password
+
