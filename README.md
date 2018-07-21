@@ -1,5 +1,11 @@
 # Docs
 
+## Checklist
+
+* Máquina com Ubuntu, RedHat ou RancherOS
+* Portas 80 e 443 liberadas
+* Docker
+
 ## Instalando o Docker
 
 Para instalar o Docker, na versão 18.03, basta executar o comando abaixo em sua instância:
